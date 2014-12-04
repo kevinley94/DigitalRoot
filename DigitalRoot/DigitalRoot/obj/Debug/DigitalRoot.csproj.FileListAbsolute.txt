@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe.config
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.pdb
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.exe
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.pdb
